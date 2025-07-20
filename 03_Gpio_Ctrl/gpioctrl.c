@@ -45,7 +45,10 @@ static int __init my_init(void) {
   return 0;
 }
 
-static void __exit my_exit(void) { printk("Goodbye - Goodbye Kernel!\n"); }
+static void __exit my_exit(void) {
+  gpiod_set_value(led, 0);
+  printk("gpioctrl - LED is OFF\n");
+}
 
 module_init(my_init);
 module_exit(my_exit);
