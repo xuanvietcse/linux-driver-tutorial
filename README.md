@@ -14,3 +14,8 @@
 
 **Status**: Done.  
 **Note**: gpio_desc, Offset in GPIO, Error code, gpio_to_desc, gpiod_direction_input/output, gpiod_get/set_value
+
+## [04 - Device Files & Numbers, Character and Block Devices](https://www.youtube.com/watch?v=hbSSi4bHF8E&list=PLCGpd0Do5-I3b5TtyqeF1UdyD4C-S-dMa&index=5)
+
+**Status**: Done.  
+**Note**: Device Files, Major and Minor Number of Device Files, **proc** File System, How Devices are linked with Major and Minor Number
