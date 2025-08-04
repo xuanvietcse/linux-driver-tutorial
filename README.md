@@ -19,3 +19,8 @@
 
 **Status**: Done.  
 **Note**: Device Files, Major and Minor Number of Device Files, **proc** File System, How Devices are linked with Major and Minor Number
+
+## [05 - Create a Character Device in a Linux Driver](https://www.youtube.com/watch?v=Zg8tnxR_z94&list=PLCGpd0Do5-I3b5TtyqeF1UdyD4C-S-dMa&index=6)
+
+**Status**: Done.  
+**Note**: Revisions of Major and Minor Number of Device Files, register_chrdev, unregister_chrdev, file_operations struct
