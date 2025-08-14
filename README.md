@@ -24,3 +24,8 @@
 
 **Status**: Done.  
 **Note**: Revisions of Major and Minor Number of Device Files, register_chrdev, unregister_chrdev, file_operations struct
+
+## [06 - printk log levels](https://www.youtube.com/watch?v=Wr6BoRsSvws&list=PLCGpd0Do5-I3b5TtyqeF1UdyD4C-S-dMa&index=7)
+
+**Status**: Done.  
+**Note**: Log Level macros in `printk()`.  
