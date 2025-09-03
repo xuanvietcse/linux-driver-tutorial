@@ -29,3 +29,8 @@
 
 **Status**: Done.  
 **Note**: Log Level macros in `printk()`.  
+
+## [07 - Open and release a character device](https://www.youtube.com/watch?v=_TmZ7cACfn0&list=PLCGpd0Do5-I3b5TtyqeF1UdyD4C-S-dMa&index=8&t=764s)
+
+**Status**: Done.  
+**Note**: Revisions of Major and Minor Number of Device Files, `open` and `release` function pointers in file_operations struct, `open()` and `close()` system call.
